@@ -6,6 +6,6 @@
     <input type="text" placeholder="Your Name" class="w-full p-3 border rounded mb-4">
     <input type="email" placeholder="Your Email" class="w-full p-3 border rounded mb-4">
     <textarea placeholder="Your Message" class="w-full p-3 border rounded mb-4"></textarea>
-    <button class="px-6 py-2 bg-blue-500 text-white rounded">Send Message</button>
+    <button class="px-6 py-2 bg-blue-500 text-white rounded">Sending Message</button>
 </form>
 @endsection
